@@ -2,6 +2,6 @@
         
         </div>
         <div class="copy_right">
-            © 2020 <a href="#">Blogsia</a>. All rights reserved.
+            © 2022<a href="#">Blogsia</a>. All rights reserved.
         </div>
     </footer> 
